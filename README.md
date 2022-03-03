@@ -19,7 +19,7 @@ Spring security 로그인 기능 추가. 메인화면 진입시, 사용자 Role�
   
 비기능  
 - AOP활용 서비스 진입, 종료 시 로그 출력  
-- 트랜잭션 관리
+- 서비스 단위 트랜잭션 관리
 - DB Connection Pool 관리(예정)  
 
 
