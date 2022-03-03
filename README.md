@@ -22,5 +22,7 @@ Spring security 로그인 기능 추가. 메인화면 진입시, 사용자 Role�
 - 서비스 단위 트랜잭션 관리
 - DB Connection Pool 관리(예정)  
 
+화면은 현재 JSP -> Vue.js로 변경을 고려하고 있습니다.
+
 
 
