@@ -21,7 +21,7 @@ Spring security 로그인 기능 추가. 메인화면 진입시, 사용자 Role�
 - AOP활용 서비스 진입, 종료 시 로그 출력  
 - 서비스 단위 트랜잭션 관리
 - DB Connection Pool 관리(예정)  
-- circle ci를 활용한 배포자동화(예정)
+- Circle Ci를 활용한 배포자동화(예정)
 
 화면은 현재 JSP -> Vue.js로 변경을 고려하고 있습니다.
 
